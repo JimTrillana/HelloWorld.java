@@ -1,7 +1,5 @@
 public Jim{
 public static void main(Stringp[]Args){
-      System.out.print(HelloWorld);
-      System.out.print("I've been here!");
       System.out.print("simrro");
    }
 }
